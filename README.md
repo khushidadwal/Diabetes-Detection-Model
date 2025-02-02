@@ -22,9 +22,10 @@ The target variable in the dataset is 'Outcome,' where 0 represents no diabetes,
 - **Insulin**: 2-Hour serum insulin (mu U/ml). 
     - Normal range: 16–166 mIU/L 2 hours after glucose administration.
 - **BMI**: Body mass index (weight in kg / (height in m²)). 
-    - underweight:BMI ≤ 18.5
-    - normal weight: 18.5–24.9
-    - overweight (25–29.9), obese (BMI ≥ 30).
+    - Underweight:BMI ≤ 18.5
+    - Normal weight: 18.5–24.9
+    - Overweight: 25–29.9
+    - Obese: BMI ≥ 30
 - **DiabetesPedigreeFunction**: A function scoring diabetes likelihood based on family history.
 - **Outcome (target variable)**: 0 — no diabetes, 1 — has diabetes.
 - **Age**
